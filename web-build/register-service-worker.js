@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/eli-alkorta/gestor-de-tareas-para-movil/expo-service-worker.js",{scope:"/eli-alkorta/gestor-de-tareas-para-movil/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));

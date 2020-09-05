@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/app.c79a5383.chunk.js",
+    "app.js.map": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/app.c79a5383.chunk.js.map",
+    "runtime~app.js": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/runtime~app.1876a360.js",
+    "runtime~app.js.map": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/runtime~app.1876a360.js.map",
+    "static/js/2.b0a00d87.chunk.js": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/2.b0a00d87.chunk.js",
+    "static/js/2.b0a00d87.chunk.js.map": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/2.b0a00d87.chunk.js.map",
+    "favicon-16.png": "/eli-alkorta/gestor-de-tareas-para-movil/favicon-16.png",
+    "favicon-32.png": "/eli-alkorta/gestor-de-tareas-para-movil/favicon-32.png",
+    "favicon.ico": "/eli-alkorta/gestor-de-tareas-para-movil/favicon.ico",
+    "index.html": "/eli-alkorta/gestor-de-tareas-para-movil/index.html",
+    "manifest.json": "/eli-alkorta/gestor-de-tareas-para-movil/manifest.json",
+    "serve.json": "/eli-alkorta/gestor-de-tareas-para-movil/serve.json",
+    "static/js/2.b0a00d87.chunk.js.LICENSE.txt": "/eli-alkorta/gestor-de-tareas-para-movil/static/js/2.b0a00d87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1876a360.js",
+    "static/js/2.b0a00d87.chunk.js",
+    "static/js/app.c79a5383.chunk.js"
+  ]
+}
